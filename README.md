@@ -1,8 +1,8 @@
-# 🚦 SmartPath – A Smart City Assistant
+#  SmartPath – A Smart City Assistant
 
 **SmartPath** is a Python-based smart city assistant that helps users find the shortest and most efficient route between key locations within a city. Built using Dijkstra’s algorithm and enhanced with a graphical interface and custom visualizations, this project is a simple yet effective example of combining algorithmic logic with real-world applications.
 
-## 🧠 Features
+##  Features
 
 - 🔍 Find shortest path using Dijkstra’s Algorithm
 - 🖼️ Graphical visualization of city locations with custom icons
@@ -10,7 +10,7 @@
 - 📏 Displays total distance and optimal route
 - 🏙️ Represents the city as a weighted graph
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - **Python**
 - **Tkinter** – For building the graphical user interface
@@ -18,7 +18,7 @@
 - **Matplotlib** – For data visualization
 - **Heapq** – For priority queue used in Dijkstra’s Algorithm
 
-## 📌 Requirements
+##  Requirements
 
 - Python 3.x
 - matplotlib
